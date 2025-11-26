@@ -1,12 +1,10 @@
-version: 1.0
-
 image: Ubuntu2004  # образ для сборки
 
 stack: jdk 11  # версия JDK
 
 branches:
   only:
-    - master  # ветка git
+    - main  # ветка git
 
 build: off  # будем использовать свой скрипт сборки
 
