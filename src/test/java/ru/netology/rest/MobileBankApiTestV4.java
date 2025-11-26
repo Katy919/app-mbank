@@ -19,7 +19,7 @@ class MobileBankApiTestV4 {
                 .then()
                 // Включаем логирование ответа
                 .log().all()
-                .statusCode(210)
+                .statusCode(200)
                 .body(matchesJsonSchemaInClasspath("accounts.schema.json"));
     }
 }
