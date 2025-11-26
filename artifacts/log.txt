@@ -1,0 +1,4 @@
+[00:00:00] Build started
+[00:00:00] git clone -q --branch=main https://github.com/Katy919/app-mbank.git C:\projects\app-mbank
+[00:00:02] git checkout -qf bc107c0e8773770be626cb4159e12b1c2eae70d2
+[00:00:02] The build phase is set to "MSBuild" mode (default), but no Visual Studio project or solution files were found in the root directory. If you are not building Visual Studio project switch build mode to "Script" and provide your custom build command.
