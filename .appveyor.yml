@@ -1,3 +1,5 @@
+version: 1.0
+
 image: Ubuntu2004  # образ для сборки
 
 stack: jdk 11  # версия JDK
